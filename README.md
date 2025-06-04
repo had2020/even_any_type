@@ -17,19 +17,19 @@ Add it to your `Cargo.toml`:
 cargo add even_any_type
 ```
 
-Basic usage 
+Basic usage
 
 ```rust
 fn main() {
-  println!("{}", 4.is_even);
-  println!("{}", 3.1.is_even);
+  println!("{}", 4.is_even());
+  println!("{}", 3.1.is_even());
 }
 ```
 
 # Features
 - Simple and ergonomic
 - No dependencies (just std :C)
-- Minimal footprint 
+- Minimal footprint
 
 # See Github for Up To Date Docs
 Leave a star to be a star! ⭐
