@@ -33,6 +33,6 @@ fn main() {
 
 # See Github for Up To Date Docs
 Leave a star to be a star! ⭐
-- [https://github.com/had2020/Last-Straw](https://github.com/had2020/even_any_type)
+- https://github.com/had2020/even_any_type
 
 PRs welcome, keep it simple.
