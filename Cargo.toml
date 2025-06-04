@@ -13,4 +13,13 @@ readme = "README.md"
 authors = ["Hadrian Lazic <hadrian.lazic@email.com>"]
 exclude = ["target/*", "*.lock"]
 
+[lib]
+path = "src/lib.rs"
+
+[profile.dev]
+opt-level = 1
+
+[profile.release]
+opt-level = 3
+
 [dependencies]
